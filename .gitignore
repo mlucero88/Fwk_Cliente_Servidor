@@ -14,7 +14,7 @@
 
 # Eclipse
 .proyect
-.cproyect
+.cproject
 .settings
 Debug/
 *.doxyfile
