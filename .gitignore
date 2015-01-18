@@ -13,8 +13,5 @@
 *.a
 
 # Eclipse
-.project
-.cproject
 .settings
 Debug/
-*.doxyfile
